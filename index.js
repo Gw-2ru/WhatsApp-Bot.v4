@@ -1514,7 +1514,7 @@ console.log('\x1b[1;37m>', '[', '\x1b[1;32mEXEC\x1b[1;37m', ']', time, color(">"
 reply(String(e))
 }
 }
-
+//hai
 	}
 if (isGroup && budy != undefined) {
 	} else {
